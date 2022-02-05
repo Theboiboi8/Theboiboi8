@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Theboiboi8
 - 👀 I’m interested in programing, mainly Java for Minecraft Modding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Next.js
 - 📫 Discord: Lightning_man#4112
 - 😎 Certified Block Game Enjoyer
